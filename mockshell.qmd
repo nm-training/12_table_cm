@@ -4,4 +4,4 @@ format: html
 editor: visual
 ---
 
-![](https://raw.githubusercontent.com/nm-training/img/refs/heads/main/cm_table_jul25.png)
+![](https://tinyurl.com/bp9bsb5f)
